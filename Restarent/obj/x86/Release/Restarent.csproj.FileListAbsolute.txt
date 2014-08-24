@@ -1,0 +1,13 @@
+I:\Restarent-Project\Restarent\Restarent\bin\Release\Restarent.exe.config
+I:\Restarent-Project\Restarent\Restarent\bin\Release\Restarent.exe
+I:\Restarent-Project\Restarent\Restarent\bin\Release\Restarent.pdb
+I:\Restarent-Project\Restarent\Restarent\obj\x86\Release\ResolveAssemblyReference.cache
+I:\Restarent-Project\Restarent\Restarent\obj\x86\Release\Restarent.ChangePassword.resources
+I:\Restarent-Project\Restarent\Restarent\obj\x86\Release\Restarent.CreateNewuser.resources
+I:\Restarent-Project\Restarent\Restarent\obj\x86\Release\Restaurant.Form1.resources
+I:\Restarent-Project\Restarent\Restarent\obj\x86\Release\Restarent.Home.resources
+I:\Restarent-Project\Restarent\Restarent\obj\x86\Release\Restarent.Properties.Resources.resources
+I:\Restarent-Project\Restarent\Restarent\obj\x86\Release\GenerateResource.read.1.tlog
+I:\Restarent-Project\Restarent\Restarent\obj\x86\Release\GenerateResource.write.1.tlog
+I:\Restarent-Project\Restarent\Restarent\obj\x86\Release\Restarent.exe
+I:\Restarent-Project\Restarent\Restarent\obj\x86\Release\Restarent.pdb
